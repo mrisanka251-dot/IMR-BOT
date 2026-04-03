@@ -6,7 +6,7 @@ module.exports = {
   "PORT": "3000",
   "AUTOREADSTATUS": true,
   "MODE": "public",
-  "BOTNUMBER": "94717775628",
+  "BOTNUMBER": "94763353368",
   "OMDBAPI_KEY": "76cb7f39",
   "READCMD": true,
   "AUTOVOICE": false,
@@ -33,6 +33,6 @@ module.exports = {
   "AIMODE": false,
   "BANNED": [],
   "SUDO": [
-    "94717775628"
+    "94763353368"
   ]
 };
